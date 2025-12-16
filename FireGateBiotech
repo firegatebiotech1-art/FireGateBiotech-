@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>FireGate Biotech – Research Notes | FG-001 Triplet Immunologic Framework</title>
+  <meta name="description" content="FireGate Biotech research notes and scientific context. FG-001 triplet immunologic framework integrating CCR5 blockade, PD-L1 checkpoint recalibration, and broadly neutralizing antibody (bNAb) clearance." />
+  <meta name="robots" content="index,follow" />
+
+  <!-- Canonical (optional: update later to your GitHub Pages URL once live) -->
+  <link rel="canonical" href="https://firegatebiotech.com/" />
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="FireGate Biotech – Research Notes" />
+  <meta property="og:description" content="Scientific reference material and program context. FG-001 triplet immunologic framework: CCR5 blockade + PD-L1 checkpoint recalibration + bNAb-mediated clearance." />
+  <meta property="og:url" content="https://github.com/firegatebiotech1-art/firegate-biotech-notes" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="FireGate Biotech – Research Notes" />
+  <meta name="twitter:description" content="FG-001 triplet immunologic framework: CCR5 blockade + PD-L1 checkpoint recalibration + bNAb-mediated clearance." />
+
+  <!-- Tiny, clean styling (fast + readable) -->
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      line-height: 1.55;
+    }
+    .wrap {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 28px 18px 56px;
+    }
+    header {
+      border-radius: 14px;
+      padding: 18px 18px;
+      border: 1px solid rgba(128,128,128,.25);
+      background: rgba(128,128,128,.06);
+    }
+    h1 { margin: 0 0 6px; font-size: 1.55rem; }
+    .sub { margin: 0; opacity: .85; }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 14px;
+      margin-top: 16px;
+    }
+    @media (min-width: 780px) {
+      .grid { grid-template-columns: 1.1fr .9fr; }
+    }
+    .card {
+      border-radius: 14px;
+      padding: 16px;
+      border: 1px solid rgba(128,128,128,.25);
+      background: rgba(128,128,128,.04);
+    }
+    h2 { margin: 0 0 10px; font-size: 1.1rem; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .btns { display:flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+    .btn {
+      display:inline-block;
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid rgba(128,128,128,.35);
+      background: rgba(128,128,128,.08);
+      font-weight: 600;
+    }
+    code {
+      padding: 2px 6px;
+      border-radius: 8px;
+      border: 1px solid rgba(128,128,128,.25);
+      background: rgba(128,128,128,.08);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: .92em;
+    }
+    footer {
+      margin-top: 18px;
+      font-size: .92rem;
+      opacity: .8;
+    }
+    ul { margin: 8px 0 0 18px; }
+  </style>
+
+  <!-- Structured data (helps entity association) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "FireGate Biotech – Research Notes",
+    "description": "Scientific reference material and program context. FG-001 triplet immunologic framework integrating CCR5 blockade, PD-L1 checkpoint recalibration, and broadly neutralizing antibody (bNAb) clearance.",
+    "about": [
+      {"@type": "Thing", "name": "CCR5 blockade"},
+      {"@type": "Thing", "name": "PD-L1 checkpoint"},
+      {"@type": "Thing", "name": "broadly neutralizing antibodies (bNAbs)"},
+      {"@type": "Thing", "name": "immunology"},
+      {"@type": "Thing", "name": "translational research"}
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "FireGate Biotech"
+    },
+    "mainEntityOfPage": "https://github.com/firegatebiotech1-art/firegate-biotech-notes"
+  }
+  </script>
+</head>
+
+<body>
+  <main class="wrap">
+    <header>
+      <h1>FireGate Biotech – Research Notes</h1>
+      <p class="sub">
+        Scientific reference material and context for exploratory programs in immunology and translational research.
+      </p>
+    </header>
+
+    <section class="grid" aria-label="Content">
+      <article class="card">
+        <h2>Featured reference: FG-001 Triplet Immunologic Framework</h2>
+        <p>
+          This page links to a SlideShare figure outlining an FG-001 conceptual framework integrating:
+          <strong>CCR5 blockade</strong>, <strong>PD-L1 checkpoint recalibration</strong>, and
+          <strong>bNAb-mediated clearance</strong>.
+        </p>
+
+        <div class="btns">
+          <a class="btn" href="https://www.slideshare.net/slideshow/figure-1-fg-001-triplet-immunologic-framework-integrating-ccr5-blockade-pd-l1-checkpoint-recali-bration-and-broadly-neutralizing-antibody-bnab-mediated-clearance/284675704" target="_blank" rel="noopener">
+            View on SlideShare →
+          </a>
+          <a class="btn" href="https://firegatebiotech.com" target="_blank" rel="noopener">
+            FireGateBiotech.com →
+          </a>
+        </div>
+
+        <p style="margin-top:12px;">
+          Keywords: <code>CCR5</code> <code>PD-L1</code> <code>bNAb</code> <code>immune modulation</code> <code>translational</code>
+        </p>
+      </article>
+
+      <aside class="card">
+        <h2>How this helps discovery</h2>
+        <ul>
+          <li>Creates a high-trust, crawlable page on GitHub Pages.</li>
+          <li>Provides a clean, permanent backlink to the SlideShare figure.</li>
+          <li>Adds clear textual context for Google (not just an image link).</li>
+        </ul>
+
+        <p style="margin-top:10px;">
+          Tip: after Pages is enabled, update the <code>canonical</code> URL to your GitHub Pages URL.
+          (Optional, but helpful.)
+        </p>
+      </aside>
+    </section>
+
+    <footer>
+      Educational/scientific material only. No clinical claims. Updated as new public references are released.
+    </footer>
+  </main>
+</body>
+</html>
